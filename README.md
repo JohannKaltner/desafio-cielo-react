@@ -17,29 +17,16 @@
 execute o comando abaixo.
 
 ```sh
-npm install
+yarn
 ```
 
-## Instalação Back-End
-
-navegue até a pasta /back-end.
-
-```
-cd back-end
-```
-
-execute o comando abaixo.
-
-```sh
-npm install
-```
-
+ 
 ## Executando a Aplicação
 
 Após realizar a instalação, execute o comando abaixo
 
 ```sh
-npm start
+yarn start
 ```
 
 ## Release
