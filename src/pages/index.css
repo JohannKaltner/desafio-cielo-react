@@ -1,0 +1,10 @@
+.chart-container {
+    margin-bottom: 3rem;
+    /* border: 1px solid #ddd; */
+    border-radius: 7px;
+    padding: 15px;
+}
+
+.table-container {
+    margin-bottom: 200px;
+}
